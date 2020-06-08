@@ -4,6 +4,7 @@ A simple example of Jinterface usage.
 Run this project in IntelliJ with JDK11. You'll also need Erlang.
 
 To run the game, create a named Erlang node:
+
 `erl -sname eNode -setcookie erljava`
 
 Then compile Erlang modules:
