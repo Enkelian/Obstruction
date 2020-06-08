@@ -1,5 +1,5 @@
 # Obstruction
-A simple example of Jinterface. 
+A simple example of Jinterface usage. 
 
 Run this project in IntelliJ with JDK11. You'll also need Erlang.
 
